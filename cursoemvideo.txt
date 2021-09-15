@@ -2,3 +2,4 @@ Rafael dos Santos;17
 Sandra Maria;40
 Felipe dos Santos;22
 Rodrigo;18
+Cristiano Ronaldo;36
